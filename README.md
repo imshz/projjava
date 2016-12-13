@@ -1,4 +1,4 @@
-# ProjJava is a port Java of Proj.NET
+# ProjJava is a port Java of Proj.NET (Android Compatible)
 This project is a direct port of Proj.NET. The original project is located here: http://projnet.codeplex.com/
 
 # ProjJava - Spatial Reference and Projection Engine
