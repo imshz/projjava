@@ -97,7 +97,7 @@ public class WKTCoordSysParserTests {
             parsecount++;
         }
 
-        assertEquals("Not all WKT was parsed", parsecount, 2671);
+        assertEquals("Not all WKT was parsed", parsecount, 2672);
     }
 
     @Test
@@ -149,7 +149,7 @@ public class WKTCoordSysParserTests {
             parseCount++;
         }
 
-        assertEquals("Not all WKT was processed", parseCount, 2536);
+        assertEquals("Not all WKT was processed", parseCount, 2537);
     }
 
     private boolean toleranceLessThan(double[] p1, double[] p2, double tolerance)

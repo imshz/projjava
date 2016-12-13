@@ -49,7 +49,7 @@ public class ConcatenatedTransform extends MathTransform {
 
      */
     public ConcatenatedTransform() {
-        this(new ArrayList<>());
+        this(new ArrayList<ICoordinateTransformation>());
     }
 
     /**
